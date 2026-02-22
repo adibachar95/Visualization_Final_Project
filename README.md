@@ -6,17 +6,19 @@ Welcome to the NYC Traffic Accident Analysis project. This repository explores t
 This project was developed as part of the Information Visualization course at Ben-Gurion University.
 
 Project Abstract 
-This project analyzes a decade of NYC collision data (2013-2023) to uncover spatial, temporal, and causal risk factors.
+This project analyzes a decade of NYC collision data (2013-2023) to uncover spatial, temporal, and causal risk factors - https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 
 The Report: Provides a deep academic dive into 6 key visualizations, discussing methodology, visual encoding, and critical safety conclusions.
 
 The Notebook: A full End-to-End Data Science pipeline. It features robust Feature Engineering (standardizing hundreds of raw inputs into 9 macro-categories) and interactive visualizations using Plotly and Folium.
 
 Repository Contents 
-Final Project Report - Detailed academic documentation of our findings and methodology.
-Python Notebook – The source code containing all data cleaning, processing, and visualization logic.
-Excel Dataset – The raw data sourced from NYC Open Data (Motor Vehicle Collisions).
-Google Colab Link – An interactive environment to run the analysis in the cloud - https://colab.research.google.com/drive/1CdGRON5weg95XRJOkUuNbURKnWqhm84-?usp=sharing
+1. Final Project Report – Detailed academic documentation of our findings and methodology.
+2. Python Notebook – The source code containing all data cleaning, processing, and visualization logic.
+3. Interactive Visualization 1 (HTML) – Standalone interactive line chart of traffic trends.
+4. Interactive Visualization 3 (HTML) – The interactive "Road Roulette" danger map.
+5. Excel Dataset – The raw data sourced from NYC Open Data (Motor Vehicle Collisions).
+6. Google Colab Link – An interactive environment to run the analysis in the cloud. - https://colab.research.google.com/drive/1CdGRON5weg95XRJOkUuNbURKnWqhm84-?usp=sharing
 
 Visual Analysis: The 6 Pillars 
 1. A Rare Bright Side of COVID-19 A Line Chart tracking monthly trends over 10 years. It highlights the dramatic impact of the 2020 lockdowns on traffic volume across all five boroughs.
